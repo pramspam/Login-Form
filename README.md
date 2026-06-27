@@ -2,6 +2,8 @@
 
 A simple client-side login form built with HTML, CSS, and JavaScript.
 
+🔗 **Live Demo:** [Click to view](https://pramspam.github.io/Login-Form/login.html)
+
 ## Preview
 
 A centered login box on a light blue background with username and password fields and a login button.
@@ -26,21 +28,19 @@ A centered login box on a light blue background with username and password field
 
 No installation or dependencies required.
 
-1. Download or clone the file
-2. Open `login page.html` in any web browser
+1. Clone the repo
+2. Open `login.html` in any web browser
 
 ```bash
-# Clone the repo (if hosted on GitHub)
 git clone https://github.com/pramspam/Login-Form.git
-
-# Open the file
-open "login page.html"
+cd Login-Form
+open login.html
 ```
 
 ## File Structure
 
 ```
-├── login page.html   # All HTML, CSS, and JS in one file
+├── login.html   # All HTML, CSS, and JS in one file
 └── README.md
 ```
 
