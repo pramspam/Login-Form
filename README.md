@@ -60,8 +60,8 @@ open "login page.html"
 This project is open source and free to use.
 
 ## Output
-<img width="300" height="263" alt="image" src="https://github.com/user-attachments/assets/45c8b24b-40cd-4da0-b731-51b990a22f51" />
-<img width="364" height="340" alt="image" src="https://github.com/user-attachments/assets/cb2cece2-eb6b-4fd2-915a-334ecf603ff5" />
-<img width="377" height="347" alt="image" src="https://github.com/user-attachments/assets/ca4e54d3-1603-469d-a09c-ba021e1f21aa" />
+<img width="312" height="331" alt="image" src="https://github.com/user-attachments/assets/47072e48-c5d8-4c88-b676-00e308759402" />
+<img width="347" height="417" alt="image" src="https://github.com/user-attachments/assets/39d66584-93fb-4747-be2a-5ee8169fbc88" />
+<img width="351" height="413" alt="image" src="https://github.com/user-attachments/assets/fecc5029-4f7e-4e8d-97c4-469b706a155c" />
 
 
