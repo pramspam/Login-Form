@@ -58,3 +58,7 @@ open "login page.html"
 ## License
 
 This project is open source and free to use.
+
+## Output
+<img width="300" height="263" alt="image" src="https://github.com/user-attachments/assets/45c8b24b-40cd-4da0-b731-51b990a22f51" />
+
